@@ -9,6 +9,7 @@
     after convergence). For convergence/termination, consider at most ​ 1% difference
     in each state utility between iterations. (​ Assume discount factor = 0.99​ )
 **Output format**
+
     If the input grid world is of size ​ n x ​ m ​ , output should consist of ​ n lines, each having ​ m
     spaced values. Each value should be rounded off to 3 decimal positions.
     Example output format for a grid of size 3 x 2(for each iteration):
