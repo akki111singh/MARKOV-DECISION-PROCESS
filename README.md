@@ -1,8 +1,8 @@
 # MARKOV-DECISION-PROCESS
 
-###Prerequisites
+### Prerequisites
     python3
-#PartA
+# PartA
     A program (in python) that performs ​ Value Iteration(VI) Algorithm on an
     input grid world as mentioned in pdf and outputs the utility map of the states
     after each iteration of the ​ VI algorithm ​ till convergence(along with the utility map
@@ -18,10 +18,10 @@
     //new line after each iteration
 
 
-#PartB
+# PartB
   VI algorithm with different Discount factor and Step Cost
 
-#Part C
+# Part C
     *MDP using LP
     *Use the excel LP solver to compute the x values and the expected utilities for this
       MDP.Please verify that the expected utility obtained is equivalent to the one
