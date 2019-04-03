@@ -25,6 +25,6 @@
 # Part C
     MDP using LP
     Use the excel LP solver to compute the x values and the expected utilities for this
-      MDP.Please verify that the expected utility obtained is equivalent to the one
-      obtained using the VI algorithm.
+    MDP.Please verify that the expected utility obtained is equivalent to the one
+    obtained using the VI algorithm.
 
